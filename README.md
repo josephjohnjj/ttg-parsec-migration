@@ -9,6 +9,7 @@ mkdir build/install
 
 cd parsec/build
 ../configure --prefix='path to install directory"
+
 make install
 
 ## ttg
