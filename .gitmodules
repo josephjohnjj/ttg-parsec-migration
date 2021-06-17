@@ -1,3 +1,6 @@
 [submodule "ttg"]
 	path = ttg
 	url = https://github.com/josephjohnjj/ttg.git
+[submodule "parsec"]
+	path = parsec
+	url = https://josephjohn@bitbucket.org/josephjohn/parsec_ttg.git
